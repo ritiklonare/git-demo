@@ -1,3 +1,3 @@
 # git-demo
 basics git demo project 
-Author - ritik
+Author - ritik Lonare 
